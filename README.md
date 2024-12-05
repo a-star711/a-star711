@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="48" height="48" />
   <img src="https://via.placeholder.com/48/ffffff?text=ShadCN" alt="ShadCN" />
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="MUI" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
